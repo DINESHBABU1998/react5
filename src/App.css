@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.hoc{
+  background-color: crimson;
+}
+.pure{
+  background-color: darkmagenta;
+}
